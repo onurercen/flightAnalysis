@@ -12,11 +12,11 @@
 3. Social Network Analysis
     ✓ Degree Centrality
     ✓ In Degree - Out Degree
-    • Betweenness Centrality
-    • Closeness Centrality
-    • PageRank
-    • Clustering Coefficient
-    • Community Detection
+    ✓ Betweenness Centrality
+    ✓ Closeness Centrality
+    ✓ PageRank
+    ✓ Clustering Coefficient
+    ✓ Community Detection
 
 4. Visualizations
 
